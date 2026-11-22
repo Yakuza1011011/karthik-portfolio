@@ -88,7 +88,7 @@ export default function ProjectsScene({ sectionRef, progress, exitProgress, scro
           <ProjectCard
             name="Darshanam"
             artwork={darshanamArtwork}
-            projectUrl="https://darshanam-wyru.onrender.com"
+            projectUrl="https://darshanam.aerodynamic1110.workers.dev"
             description="Darshanam is a temple discovery website where users sign in with Google, create a profile, and explore temples by location, ticket prices and seva details. Built with JavaScript, Cloudflare Workers and Neon PostgreSQL, it offers search, nearby temple recommendations and links to official booking websites."
           />
           <ProjectCard
